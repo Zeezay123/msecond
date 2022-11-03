@@ -1,0 +1,2 @@
+# msecond
+My second repository
